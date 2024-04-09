@@ -27,20 +27,20 @@ const Blog = () => {
           <div className="mx-4 flex flex-wrap">
             <BlogCard
               date="Dec 22, 2023"
-              CardTitle="Meet AutoManage, the best AI management tools"
-              CardDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+              CardTitle="The Role of Spending Patterns and Self-Control"
+              CardDescription="Spending patterns and self-control are pivotal in managing finances. By recognizing and adjusting spending habits, individuals can avoid unnecessary expenses and allocate more resources towards investments. Self-control is equally important, as it helps in resisting short-term temptations in favor of long-term benefits."
               image="https://i.ibb.co/Cnwd4q6/image-01.jpg"
             />
             <BlogCard
               date="Dec 22, 2023"
-              CardTitle="Meet AutoManage, the best AI management tools"
-              CardDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+              CardTitle="Saving Behavior and Family Financial Socialization"
+              CardDescription="Saving behavior is influenced by various factors, including family financial socialization. Learning about finance management from family members can shape one’s approach to saving and investing. Cultivating a habit of regular saving is essential for building a financial cushion and capital for investment."
               image="https://i.ibb.co/Y23YC07/image-02.jpg"
             />
             <BlogCard
               date="Dec 22, 2023"
-              CardTitle="Meet AutoManage, the best AI management tools"
-              CardDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+              CardTitle="Attitude Toward Risk and Investment Choices"
+              CardDescription="An individual’s attitude toward risk significantly affects their investment choices. Some may prefer low-risk options like bonds or fixed deposits, while others may opt for high-risk, high-reward investments such as stocks or cryptocurrencies. Understanding one’s risk tolerance is key to selecting suitable investment vehicles."
               image="https://i.ibb.co/7jdcnwn/image-03.jpg"
             />
           </div>
